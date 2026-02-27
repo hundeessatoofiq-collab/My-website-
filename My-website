@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="om">
+<head>
+<meta charset="UTF-8">
+<title>Online Irraa Birrii Hojjachuuf</title>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #f7f7f7;
+}
+
+h1 {
+    text-align: center;
+    color: #2c3e50;
+}
+
+h2 {
+    color: #34495e;
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+a {
+    color: #2980b9;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    display: block;
+    margin: 10px auto;
+    max-width: 100%;
+    border-radius: 10px;
+}
+</style>
+</head>
+<body>
+
+<h1>Online Irraa Birrii Hojjachuuf</h1>
+
+<p>Amma yeroo technology fi internet keessatti jirru, namni tokko laptop ykn bilbila qofa fayyadamuun <strong>birrii online argachuu</strong> danda’a. Kun carraa daldalaa fi hojii salphaa siif kenna. Yoo ati obsaa fi fedhii qabaatte, karaa armaan gadiin jalqabuu dandeessa.</p>
+
+<h2>1. Website fi Blog uumuu</h2>
+<p>Website ykn blog uumi. Barreeffama nama fayyadu barreessi: fakkeenyaaf <em>tech tips, barnoota, daldala online, project</em> fi kkf. Namoonni yoo website kee daawwatan, advertisement akka <a href="https://www.google.com/adsense/">Google AdSense</a> irraa qarshii argatta.</p>
+
+<h2>2. Freelancing fi Service Gurguruu</h2>
+<p>Yoo coding, design, writing, ykn bot uumu dandeessa, website kee irratti fi platform akka <a href="https://www.fiverr.com/">Fiverr</a> irratti service kee gurguruu dandeessa. Namni tokko hojii siif kennu → ati qarshii argatta.</p>
+
+<h2>3. Affiliate Marketing</h2>
+<p>Products fi services namootaaf beeksisi. Yoo namni tokko product bitate, ati commission argatta. Karaa salphaa fi karaa internet keessatti qarshii argachuuf kun gargaara.</p>
+
+<h2>4. YouTube fi Video Content</h2>
+<p>Video hojjechuun YouTube irratti fe’i. Namoonni yoo ilaalan, advertisement irraa qarshii argatta. Karaa technology, barnoota, fi entertainment fayyadamuun milkaa’ina argachuu dandeessa.</p>
+
+<h2>5. Telegram Bot fi App Uumu</h2>
+<p>Telegram bot ykn app uumi, sana booda namootaaf gurguri. Kun online irraa birrii argachuuf karaa haaraa fi salphaa dha.</p>
+
+<h2>Gorsa Dhumaa</h2>
+<p>Milkaa’uuf <strong>obsaa, hojii guyyaa guyyaa hojjechuu, fi barnoota itti fufuu</strong> barbaachisa. Technology fi internet irratti yeroo ammaa carraa guddaa jiru, ati illee akka namoota hedduu fakkaattu birrii online hojjechuu dandeessa!</p>
+
+</body>
+</html>
